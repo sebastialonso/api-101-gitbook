@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
    * [Requeriments](requeriments.md)
+   * [Syntax](syntax.md)
 * [Fundamentals](fundamentals/README.md)
+   * [What is an API?](fundamentals/what_is_an_api.md)
 * [Basic Concepts](basic_concepts/README.md)
    * [HTTP Verbs](basic_concepts/subsection)
    * [HTTP Statuses](basic_concepts/http_statuses)
