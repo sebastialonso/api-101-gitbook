@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * [Requeriments](requeriments.md)
 * [Fundamentals](fundamentals/README.md)
 * [Basic Concepts](basic_concepts/README.md)
    * [HTTP Verbs](basic_concepts/subsection)
@@ -10,8 +11,9 @@
    * [Sinatra](tools_of_the_trade/sinatra)
    * [DataMapper](tools_of_the_trade/datamapper)
 * [Let's build an API](lets_build_an_api/README.md)
+   * [What to build](lets_build_an_api/what_to_build.md)
    * [Structure](lets_build_an_api/structure.md)
    * [Models](lets_build_an_api/models.md)
-   * [Routes](lets_build_an_api/routes)
+   * [Routes](lets_build_an_api/routes.md)
 * [What comes next?](what_comes_next/README.md)
 
