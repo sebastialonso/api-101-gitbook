@@ -13,4 +13,4 @@ This section draws heavily from the [HTTP/1.1](http://www.w3.org/Protocols/rfc26
 The GET Methods should be use when your intention is to obtain a collection or an entity from a server. GET is said to be one of the *safe* methods, it is regarded as an action without side effects. 
 This means that the action should be only meant for retrieval of a resource, and never another action like updating or deleting a resource or part of it. 
 
-You can obviously make it so, however, but the user cannot be held responsible of any side effect, since he didn't request for them.
+You can obviously make it so, but the user cannot be held responsible for any side effect, since he didn't request for them.
