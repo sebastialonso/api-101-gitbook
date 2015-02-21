@@ -1,7 +1,7 @@
 APIs 101
 =======
 
-I'm actively writing this book in my spare time. 
+I'm actively writing this book in my spare time.
 
 If you're interested in the book, please subscribe to get every update. When I'm done with it, I will release it free of charge, since it's a tool to myself too.
 
