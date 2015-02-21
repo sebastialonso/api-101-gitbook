@@ -6,7 +6,7 @@
 * [Fundamentals](fundamentals/README.md)
    * [What is an API?](fundamentals/what_is_an_api.md)
 * [Basic Concepts](basic_concepts/README.md)
-   * [HTTP Verbs](basic_concepts/subsection)
+   * [HTTP Verbs](basic_concepts/http_verbs.md)
    * [HTTP Statuses](basic_concepts/http_statuses)
 * [Tools of the trade](tools_of_the_trade/README.md)
    * [Ruby](tools_of_the_trade/ruby)
